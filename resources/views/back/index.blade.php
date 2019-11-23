@@ -44,7 +44,7 @@
                        <div class="col-md-3">
                           <div class="form-group">
                             <label for="name">&nbsp</label>
-                            <button type="button" class="form-control" id="filter_searching_button" name="filter_searching_button" class="btn btn-primary" style="width: 75%; background: whitesmoke;"><span style="color: gray; font-weight: bolder;">Search</button> 
+                            <button type="button" class="form-control" id="filter_searching_button" name="filter_searching_button" class="btn btn-primary" style="width: 75%; background: whitesmoke;"><span style="color: gray; font-weight: bolder;">Search by name</button> 
                           </div>
                        </div>                         
                     </div>
